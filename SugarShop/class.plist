@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>className</key>
+		<string>SHHomeViewController</string>
+		<key>title</key>
+		<string>首页</string>
+		<key>image</key>
+		<string>icon_home_goods</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>SHShopViewController</string>
+		<key>title</key>
+		<string>趣购</string>
+		<key>image</key>
+		<string>icon_tag_price</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>SHCategoryViewController</string>
+		<key>title</key>
+		<string>分类</string>
+		<key>image</key>
+		<string>icon_tag_other</string>
+	</dict>
+	<dict>
+		<key>className</key>
+		<string>SHMeViewController</string>
+		<key>title</key>
+		<string>我</string>
+		<key>image</key>
+		<string>icon_tag_name</string>
+	</dict>
+</array>
+</plist>
